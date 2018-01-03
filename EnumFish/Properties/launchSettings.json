@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "EnumFish": {
-      "commandName": "Project",
-      "commandLineArgs": "C:\\git\\OD3\\LifecycleManager\\LifecycleManager\\src\\MessageContracts\\SourceType.cs C:\\dev\\test\\myapp\\Auxiliary\\SourceType.js \"Aux.Enum\""
-    }
-  }
-}
